@@ -12,6 +12,7 @@ body {
 }
 
 header {
+    Color: #441e00;
     text-align: center;
     padding: 35px;
 }
@@ -23,19 +24,19 @@ header h1 {
 
 nav {
     text-align: center;
-    border-top: 5px solid #0122F5;
-    border-bottom: 5px solid #0122F5;
+    border-top: 5px solid red;
+    border-bottom: 5px solid red;
     padding: 15px 0;
 }
 
 nav a {
-    color: #0122F5;
+    color: #21F5B8;
     font-size: 30px;
     margin: 0 20px;
 }
 
 nav a:hover {
-    color:#C21510
+    color:#D0F540
 }
 
 main {
@@ -46,7 +47,7 @@ main {
 }
 
 main h2 {
-    color:#0122F5;
+    color: #F5A740;
     text-align: center;
 }
 
@@ -60,4 +61,9 @@ footer {
     padding: 40px;
     text-align: center;
     border-top: 5px solid #0122F5;
+}
+
+main h3 {
+    color:#F5A740;
+    text-align: center;
 }
