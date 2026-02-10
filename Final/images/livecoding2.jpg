@@ -1,0 +1,1776 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="og: https://ogp.me/ns#">
+  <head>
+    <meta charset="utf-8" />
+<script>var _paq = _paq || [];(function(){var u=(("https:" == document.location.protocol) ? "https://analytics.zkm.de/" : "http://analytics.zkm.de/");_paq.push(["setSiteId", "5"]);_paq.push(["setTrackerUrl", u+"matomo.php"]);_paq.push(["setDoNotTrack", 1]);_paq.push(["setCustomVariable", 1, "disableCookies", "1", "visit"]);if (!window.matomo_search_results_active) {_paq.push(["trackPageView"]);}_paq.push(["setIgnoreClasses", ["no-tracking","colorbox"]]);_paq.push(["enableLinkTracking"]);var d=document,g=d.createElement("script"),s=d.getElementsByTagName("script")[0];g.type="text/javascript";g.defer=true;g.async=true;g.src=u+"matomo.js";s.parentNode.insertBefore(g,s);})();</script>
+<meta name="description" content="Isle of Coding, Afterwork Party, 14.03.2024 - 17:00, Wir laden alle Fans des Afterworks herzlich zur Spring Session der »ZKM | Isle of Coding« auf die…" />
+<meta name="abstract" content="Isle of Coding, Afterwork Party, 14.03.2024 - 17:00, Wir laden alle Fans des Afterworks herzlich zur Spring Session der »ZKM | Isle of Coding« auf die…" />
+<link rel="shortlink" href="https://zkm.de/en/node/66098" />
+<meta name="robots" content="index, follow" />
+<link rel="canonical" href="https://zkm.de/en/event/2024/03/isle-of-coding" />
+<meta name="generator" content="Drupal 10 (https://drupal.org)" />
+<link rel="apple-touch-icon" sizes="72x72" href="https://zkm.de/themes/custom/zkm/img/icon/zkm_icon_72x72.png" />
+<link rel="apple-touch-icon" sizes="76x76" href="https://zkm.de/themes/custom/zkm/img/icon/zkm_icon_76x76.png" />
+<link rel="apple-touch-icon" sizes="114x114" href="https://zkm.de/themes/custom/zkm/img/icon/zkm_icon_114x114.png" />
+<link rel="apple-touch-icon" sizes="120x120" href="https://zkm.de/themes/custom/zkm/img/icon/zkm_icon_120x120.png" />
+<link rel="apple-touch-icon" sizes="144x144" href="https://zkm.de/themes/custom/zkm/img/icon/zkm_icon_144x144.png" />
+<link rel="apple-touch-icon" sizes="152x152" href="https://zkm.de/themes/custom/zkm/img/icon/zkm_icon_152x152.png" />
+<meta property="og:site_name" content="ZKM" />
+<meta property="og:type" content="event" />
+<meta property="og:url" content="https://zkm.de/en/event/2024/03/isle-of-coding" />
+<meta property="og:title" content="Isle of Coding" />
+<meta property="og:description" content="Isle of Coding, Afterwork Party, 14.03.2024 - 17:00, Wir laden alle Fans des Afterworks herzlich zur Spring Session der »ZKM | Isle of Coding« auf die…" />
+<meta property="og:image" content="https://zkm.de/system/files/styles/default_metatag/private/field_media_image/2024/02/21/002402/zkm000160716.jpg?itok=0frtWY_T" />
+<meta property="og:image:url" content="https://zkm.de/themes/custom/zkm/img/icon/zkm-logo-open-graph.png" />
+<meta property="og:image:width" content="1000" />
+<meta property="og:image:height" content="667" />
+<meta property="og:image:alt" content="Person doing live coding at a party." />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@zkmkarlsruhe" />
+<meta name="twitter:description" content="Isle of Coding, Afterwork Party, 14.03.2024 - 17:00, Wir laden alle Fans des Afterworks herzlich zur Spring Session der »ZKM | Isle of Coding« auf die…" />
+<meta name="twitter:title" content="Isle of Coding" />
+<meta name="twitter:image" content="https://zkm.de/system/files/styles/default_metatag/private/field_media_image/2024/02/21/002402/zkm000160716.jpg?itok=0frtWY_T" />
+<meta name="application-name" content="ZKM" />
+<meta name="msapplication-tilecolor" content="#FFFFFF" />
+<meta name="msapplication-tooltip" content="Forschung, Produktion, Ausstellungen: Das ZKM widmet sich den aktuellen Entwicklungen in Kunst und Gesellschaft in allen Medienformaten und -verfahren." />
+<meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<script type="application/ld+json">{
+    "@context": "https://schema.org",
+    "@graph": [
+        {
+            "@type": "Event",
+            "url": "https://zkm.de/en/event/2024/03/isle-of-coding",
+            "name": "Isle of Coding",
+            "image": {
+                "@type": "ImageObject",
+                "url": "https://zkm.de/system/files/styles/default_metatag/private/field_media_image/2024/02/21/002402/zkm000160716.jpg?itok=0frtWY_T",
+                "width": "1000",
+                "height": "667"
+            },
+            "description": "Isle of Coding, Afterwork Party, 14.03.2024 - 17:00, Wir laden alle Fans des Afterworks herzlich zur Spring Session der »ZKM | Isle of Coding« auf die…",
+            "startDate": "2024-03-14T17:00:00+0100",
+            "@id": "https://zkm.de/en/event/2024/03/isle-of-coding",
+            "endDate": "2024-03-14T22:00:00+0100",
+            "location": {
+                "@type": "Place",
+                "name": "Isle Hub on the Forecourt"
+            }
+        }
+    ]
+}</script>
+<link rel="icon" href="/themes/custom/zkm/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="alternate" hreflang="de" href="https://zkm.de/de/veranstaltung/2024/03/isle-of-coding" />
+<link rel="alternate" hreflang="en" href="https://zkm.de/en/event/2024/03/isle-of-coding" />
+
+    <title>Isle of Coding | ZKM</title>
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_ifMnpyLvnkAzUO64zI0d76U0GhLjmuq_1SGfSE5ifSg.css?delta=0&amp;language=en&amp;theme=zkm&amp;include=eJxVUItuxCAM-6FSPqkKkLbsAkE8ut59_VLWGzcJIccJjo0B-1gqy0naDLx4y3EyZcnofEZb9Qde6o4BJ8vE2fCpHa7QqAqRUbvcEtAMX3D-EpFzAPIvnBJk2DKkvbynBjO3mJohX3Z0U3mWikH8FJwOj99F93sO7Brh9HoEvXokpzZiA6QiO1Q7glM2QW_fDVtKL5tXYMWN85LqJq55zGr1p2y8uSAJQR3eIQ8qtk-sIhyC2NAfO1xJlQieIvtPozJT9eldXmFkL1WZwzNxGQZ66zbvfLnE5PW2Df0-0QPjgbGqlFl-MPwAYnetyA" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_VFRVYsG7ISDAkmx-v21JiKA5Tr2v66oF1sWo_gy9AFc.css?delta=1&amp;language=en&amp;theme=zkm&amp;include=eJxVUItuxCAM-6FSPqkKkLbsAkE8ut59_VLWGzcJIccJjo0B-1gqy0naDLx4y3EyZcnofEZb9Qde6o4BJ8vE2fCpHa7QqAqRUbvcEtAMX3D-EpFzAPIvnBJk2DKkvbynBjO3mJohX3Z0U3mWikH8FJwOj99F93sO7Brh9HoEvXokpzZiA6QiO1Q7glM2QW_fDVtKL5tXYMWN85LqJq55zGr1p2y8uSAJQR3eIQ8qtk-sIhyC2NAfO1xJlQieIvtPozJT9eldXmFkL1WZwzNxGQZ66zbvfLnE5PW2Df0-0QPjgbGqlFl-MPwAYnetyA" />
+
+    
+  </head>
+  <body class="field-global-node-head-cpa-default path-node path-node-66098 page-node-type-event">
+    <a href="#main-content" class="visually-hidden focusable skip-link">
+      Skip to main content
+    </a>
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    <div class="page">
+
+
+
+
+  <div class="page-head">
+  <div class="page-head-box-outer">
+  <div class="page-head-box-inner">
+
+
+    <div class="page-head-logo">
+
+              <header class="region region-header">
+  <section id="block-sitebranding-3" class="zkm-logo-en block block-system block-system-branding-block">
+  <div class="block-box-outer">
+  <div class="block-box-inner">
+
+    
+        
+
+    
+  
+  
+    <div class="site-logo">
+    <a href="/en" title="Home" rel="home" class="site-logo"><img src="/themes/custom/zkm/logo-en.svg" alt="Home" /></a>
+  </div>
+  
+
+  </div>
+  </div>
+</section><!-- /block -->
+
+</header>
+ 
+
+      
+    </div>
+
+    <div class="page-head-navi">
+
+              <div class="region region-navi-tool">
+  <div class="region-box-outer">
+  <div class="region-box-inner">
+    <section id="block-zkm-toolnavigationen-2" class="block-global-menu-navi-tool ui-menu-control block block-menu navigation menu--navi-tool-en-en" aria-labelledby="block-zkm-toolnavigationen-2-menu">
+  <div class="block-box-outer">
+  <div class="block-box-inner">
+
+    <header class="block-head">
+                  
+      <h2 id="block-zkm-toolnavigationen-2-menu">Tool Navigation - EN</h2>
+      
+    </header>
+
+    <div class="block-body">
+      <nav role="navigation">
+                    
+              <ul class="menu">
+                    <li class="menu-item">
+        <a href="/en/node/57376" class="language-simple" title="Simple Language" data-drupal-link-system-path="node/57376">Simple Language</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/node/62380" class="language-sign" title="Sign Language (german only)" data-drupal-link-system-path="node/62380">Sign Language</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en" class="language" title="Language" data-ui-menu-link-rel-selector="region-navi-tool-pane" data-ui-menu-link-rel-class="ui-menu-language" data-drupal-link-system-path="&lt;front&gt;">Language</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en" class="search" title="Search" data-ui-menu-link-rel-selector="region-navi-tool-pane" data-ui-menu-link-rel-class="ui-menu-search" data-drupal-link-system-path="&lt;front&gt;">Search</a>
+              </li>
+        </ul>
+  
+
+
+            </nav>
+    </div>
+
+  </div>
+  </div>
+</section><!-- /block -->
+<section id="block-zkm-linkserviceen-2" class="block-global-menu-link-service block block-menu navigation menu--link-service-en-en" aria-labelledby="block-zkm-linkserviceen-2-menu">
+  <div class="block-box-outer">
+  <div class="block-box-inner">
+
+    <header class="block-head">
+                  
+      <h2 id="block-zkm-linkserviceen-2-menu">Link Service EN</h2>
+      
+    </header>
+
+    <div class="block-body">
+      <nav role="navigation">
+                    
+              <ul class="menu">
+                    <li class="menu-item">
+        <a href="/en/zkm-digital" title="ZKM digital" data-drupal-link-system-path="node/40421">▶</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://webshop.zkm.de/" title="Shop">Shop</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/newsletter/subscribe" title="Sign up to our newsletter " data-drupal-link-system-path="node/66601">Newsletter</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/press" title="Press" data-drupal-link-system-path="node/3663">Press</a>
+              </li>
+        </ul>
+  
+
+
+            </nav>
+    </div>
+
+  </div>
+  </div>
+</section><!-- /block -->
+
+  </div>
+  </div>
+</div>
+
+      
+              <div class="region region-navi-main">
+  <div class="region-box-outer">
+  <div class="region-box-inner">
+    <section id="block-zkm-mainnavigationen" class="block-global-menu-navi-main block block-menu navigation menu--navi-main-en-en" aria-labelledby="block-zkm-mainnavigationen-menu">
+  <div class="block-box-outer">
+  <div class="block-box-inner">
+
+    <header class="block-head">
+                  
+      <h2 id="block-zkm-mainnavigationen-menu">Main Navigation - EN</h2>
+      
+    </header>
+
+    <div class="block-body">
+      <nav role="navigation">
+                    
+              <ul class="menu">
+                    <li class="menu-item menu-item--expanded">
+        <a href="/en/visit" title="Visit" data-drupal-link-system-path="node/66766">Visit</a>
+                                <ul class="menu">
+                    <li class="menu-item">
+        <a href="/en/visit" title="Everything at a glance" data-drupal-link-system-path="node/66766">Overview</a>
+              </li>
+                <li class="menu-item menu-item--expanded">
+        <a href="/en/opening-hours" title="Opening Hours" data-drupal-link-system-path="node/291">Opening Hours</a>
+                                <ul class="menu">
+                    <li class="menu-item">
+        <a href="/en/opening-hours" title="Opening Hours" data-drupal-link-system-path="node/291">Opening Hours</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/special-opening-hours" title="Special Opening Hours" data-drupal-link-system-path="node/1762">Special Opening Hours</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item menu-item--expanded">
+        <a href="/en/admission-fees" title="Admission Fees" data-drupal-link-system-path="node/1642">Admission Fees</a>
+                                <ul class="menu">
+                    <li class="menu-item">
+        <a href="/en/admission-fees" title="Admission Fees" data-drupal-link-system-path="node/1642">Admission Fees</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/annual-tickets" title="Annual Tickets" data-drupal-link-system-path="node/1895">Annual Tickets</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/museum-pass" title="Museum Pass" data-drupal-link-system-path="node/1904">Museum Pass</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item">
+        <a href="/en/directions" title="Getting here" data-drupal-link-system-path="node/1630">Getting here</a>
+              </li>
+                <li class="menu-item menu-item--expanded">
+        <a href="/en/on-site" title="On Site" data-drupal-link-system-path="node/3607">On Site</a>
+                                <ul class="menu">
+                    <li class="menu-item">
+        <a href="/en/on-site" title="On Site" data-drupal-link-system-path="node/3607">On Site</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/restaurant" title="Restaurant" data-drupal-link-system-path="node/1645">Restaurant</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/zkm-shop" title="ZKM Shop" data-drupal-link-system-path="node/3210">ZKM Shop</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/library" title="Library" data-drupal-link-system-path="node/1740">Library</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/media-lounge" title="Medialounge" data-drupal-link-system-path="node/1737">Medialounge</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item menu-item--expanded">
+        <a href="/en/accessibility-0" title="ZKM Accessibility" data-drupal-link-system-path="node/69320">Accessibility</a>
+                                <ul class="menu">
+                    <li class="menu-item">
+        <a href="/en/accessibility-0" data-drupal-link-system-path="node/69320">Accessibility</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/mobility-accessibility" title="Mobility accessibility" data-drupal-link-system-path="node/1627">Mobility accessibility</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/node/62380" title="German Sign Language" data-drupal-link-system-path="node/62380">German Sign Language</a>
+              </li>
+        </ul>
+  
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item menu-item--expanded">
+        <a href="/en/program" title="Program" data-drupal-link-system-path="node/265">Program</a>
+                                <ul class="menu">
+                    <li class="menu-item">
+        <a href="/en/program" title="Overview" data-drupal-link-system-path="node/265">Overview</a>
+              </li>
+                <li class="menu-item menu-item--expanded">
+        <a href="/en/exhibitions" title="Exhibitions" data-drupal-link-system-path="node/40307">Exhibitions</a>
+                                <ul class="menu">
+                    <li class="menu-item">
+        <a href="/en/exhibitions" title="Exhibitions" data-drupal-link-system-path="node/40307">Exhibitions</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/zkm-international" title="ZKM international" data-drupal-link-system-path="node/3313">ZKM international</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item">
+        <a href="/en/events" title="Events" data-drupal-link-system-path="node/1639">Events</a>
+              </li>
+                <li class="menu-item menu-item--expanded">
+        <a href="/en/guided-tours-workshops" title="Guided Tours &amp; Workshops" data-drupal-link-system-path="node/2879">Guided Tours &amp; Workshops</a>
+                                <ul class="menu">
+                    <li class="menu-item">
+        <a href="/en/guided-tours-workshops" title="Public Program" data-drupal-link-system-path="node/2879">Guided Tours &amp; Workshops</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/guided-tours-workshops-booking" title="Booking: Guided Tours &amp; workshops" data-drupal-link-system-path="node/66991">Booking: Guided Tours &amp; workshops</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/guided-tours-workshops-kindergarten" title="Kindergarten" data-drupal-link-system-path="node/1699">Kindergarten</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/guided-tours-workshops-school" title="School" data-drupal-link-system-path="node/4894">School</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item">
+        <a href="/en/useum" title="USEUM" data-drupal-link-system-path="node/68039">USEUM</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/calendar" title="Calendar" data-drupal-link-system-path="node/3589">Calendar</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/zkm-digital" title="ZKM Digital" data-drupal-link-system-path="node/40421">ZKM Digital</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item menu-item--expanded">
+        <a href="/en/research" title="Research &amp; Production" data-drupal-link-system-path="node/270">Research</a>
+                                <ul class="menu">
+                    <li class="menu-item">
+        <a href="/en/research" title="Overview" data-drupal-link-system-path="node/270">Overview</a>
+              </li>
+                <li class="menu-item menu-item--expanded">
+        <a href="/en/collections-archives" class="ui-menu-main-navi-collection" title="Collections &amp; Archives" data-drupal-link-system-path="node/273">Collections &amp; Archives</a>
+                                <ul class="menu">
+                    <li class="menu-item">
+        <a href="/en/collections-archives" title="Overview" data-drupal-link-system-path="node/273">Overview</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/collection" title="Collection" data-drupal-link-system-path="node/3598">Collection</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/archives" title="Archives" data-drupal-link-system-path="node/3701">Archives</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item menu-item--expanded">
+        <a href="/en/hertzlab" title="Artistic Research" data-drupal-link-system-path="node/3645">Artistic Research</a>
+                                <ul class="menu">
+                    <li class="menu-item">
+        <a href="/en/guest-artists-at-zkm-hertzlab" title="Guest Artists &amp; Guest Scholars" data-drupal-link-system-path="node/306">Guest Artists &amp; Guest Scholars</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/open-calls" title="Open Calls" data-drupal-link-system-path="node/4097">Open Calls</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item">
+        <a href="/en/library" title="Library" data-drupal-link-system-path="node/1740">Library</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/publications" title="Publications" data-drupal-link-system-path="node/3613">Publications</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/video-audio" title="Video &amp; audio" data-drupal-link-system-path="node/3627">Video &amp; audio</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/mission-statement-of-the-museum-communication" title="Museum Communication" data-drupal-link-system-path="node/3707">Museum Communication</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/projects" title="Current Projects" data-drupal-link-system-path="node/297">Current Projects</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/topics" title="Key Topics" data-drupal-link-system-path="node/294">Key Topics</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/persons" title="People" data-drupal-link-system-path="node/3610">Persons</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item menu-item--expanded">
+        <a href="/en/about-zkm" title="About ZKM" data-drupal-link-system-path="node/276">ZKM</a>
+                                <ul class="menu">
+                    <li class="menu-item menu-item--expanded">
+        <a href="/en/about-zkm" title="Mission" data-drupal-link-system-path="node/276">Overview</a>
+                                <ul class="menu">
+                    <li class="menu-item">
+        <a href="/en/development-philosophy" title="Development &amp; Philosophy" data-drupal-link-system-path="node/540">Development &amp; Philosophy</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/organization" title="Organization" data-drupal-link-system-path="node/3604">Organization</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item">
+        <a href="/en/position" title="Our Position" data-drupal-link-system-path="node/67527">Our Position</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/team" title="Team" data-drupal-link-system-path="node/66001">Team</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/contacts" title="Contacts" data-drupal-link-system-path="node/312">Contacts</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/vacancies" title="Vacancies" data-drupal-link-system-path="node/1618">Vacancies</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/submissions" title="Submissions" data-drupal-link-system-path="node/2187">Submissions</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/press" title="Press" data-drupal-link-system-path="node/3663">Press</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/venues-rentals" title="Venues &amp; Rentals" data-drupal-link-system-path="node/1615">Venues &amp; Rentals</a>
+              </li>
+                <li class="menu-item menu-item--expanded">
+        <a href="/en/partners" title="Support" data-drupal-link-system-path="node/1609">Support</a>
+                                <ul class="menu">
+                    <li class="menu-item">
+        <a href="/en/partners" title="Partners &amp; Sponsors" data-drupal-link-system-path="node/1609">Partners &amp; Sponsors</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/support-association-zkm-hfg-ev" title="Support Association" data-drupal-link-system-path="node/1612">Support Association</a>
+              </li>
+        </ul>
+  
+              </li>
+        </ul>
+  
+              </li>
+        </ul>
+  
+
+
+            </nav>
+    </div>
+
+  </div>
+  </div>
+</section><!-- /block -->
+
+  </div>
+  </div>
+</div>
+
+      
+              <div class="region region-navi-mobl">
+  <div class="region-box-outer">
+  <div class="region-box-inner">
+    <section id="block-zkm-mobilenavigationen" class="block-global-menu-navi-mobl ui-menu-control block block-menu navigation menu--navi-mobl-en-en" aria-labelledby="block-zkm-mobilenavigationen-menu">
+  <div class="block-box-outer">
+  <div class="block-box-inner">
+
+    <header class="block-head">
+                  
+      <h2 id="block-zkm-mobilenavigationen-menu">Mobile Navigation EN</h2>
+      
+    </header>
+
+    <div class="block-body">
+      <nav role="navigation">
+                    
+              <ul class="menu">
+                    <li class="menu-item">
+        <a href="/en" title="Open Menu" data-ui-menu-link-rel-selector="region-navi-mobl-pane" data-ui-menu-link-rel-class="ui-menu-navi-main-mobl" data-ui-menu-click-behaviour="return-false" data-drupal-link-system-path="&lt;front&gt;">Menu</a>
+              </li>
+        </ul>
+  
+
+
+            </nav>
+    </div>
+
+  </div>
+  </div>
+</section><!-- /block -->
+
+  </div>
+  </div>
+</div>
+
+      
+    </div>
+
+  </div>  </div>  </div>
+
+
+
+  <div class="page-neck">
+  <div class="page-neck-box-outer">
+  <div class="page-neck-box-inner">
+
+
+    
+
+          <div class="region region-navi-tool-pane">
+  <div class="region-box-outer">
+  <div class="region-box-inner">
+    <section class="language-switcher-language-url ui-menu-language block block-language block-language-blocklanguage-interface" id="block-languageswitcher" role="navigation">
+  <div class="block-box-outer">
+  <div class="block-box-inner">
+
+    
+        <header class="block-head">
+      <h2>Language switcher</h2>
+    </header>
+        
+
+        <div class="block-body">
+      <ul class="links"><li hreflang="de" data-drupal-link-system-path="node/66098"><a href="/de/veranstaltung/2024/03/isle-of-coding" class="language-link" title="Sprache wechseln: Deutsch" hreflang="de" data-drupal-link-system-path="node/66098">Sprache wechseln: Deutsch</a></li><li hreflang="en" data-drupal-link-system-path="node/66098" class="is-active" aria-current="page"><a href="/en/event/2024/03/isle-of-coding" class="language-link is-active" title="Change Language: English" hreflang="en" data-drupal-link-system-path="node/66098" aria-current="page">Change Language: English</a></li></ul>
+    </div>
+    
+  </div>
+  </div>
+</section><!-- /block -->
+<section id="block-zkm-infonavigationen" class="block-global-head-less ui-menu-language block-menu-navi-info block block-menu navigation menu--navi-info-en-en" aria-labelledby="block-zkm-infonavigationen-menu">
+  <div class="block-box-outer">
+  <div class="block-box-inner">
+
+    <header class="block-head">
+                  
+      <h2 id="block-zkm-infonavigationen-menu">Info Navigation - EN</h2>
+      
+    </header>
+
+    <div class="block-body">
+      <nav role="navigation">
+                    
+              <ul class="menu">
+                    <li class="menu-item">
+        <a href="/en/bienvenue-au-zkm" data-drupal-link-system-path="node/67533">Bienvenue au ZKM</a>
+              </li>
+        </ul>
+  
+
+
+            </nav>
+    </div>
+
+  </div>
+  </div>
+</section><!-- /block -->
+<section class="bs-views-filter-block-site-index-form ui-menu-search block-global-head-less block block-bs-views-filter block-bs-views-filter-site-index-block" data-drupal-selector="bs-views-filter-block-site-index-form" id="block-bsviewsfiltersiteindexblock">
+  <div class="block-box-outer">
+  <div class="block-box-inner">
+
+    
+        <header class="block-head">
+      <h2>Site Search</h2>
+    </header>
+        
+
+        <div class="block-body">
+      <form action="/en/event/2024/03/isle-of-coding" method="post" id="bs-views-filter-block-site-index-form" accept-charset="UTF-8">
+  <div class="js-form-item form-item js-form-type-textfield form-type-textfield js-form-item-search-api-fulltext form-item-search-api-fulltext">
+      <label for="edit-search-api-fulltext" class="js-form-required form-required">Fulltext search</label>
+        <input placeholder="Search our website …" data-drupal-selector="edit-search-api-fulltext" type="text" id="edit-search-api-fulltext" name="search_api_fulltext" value="" size="60" maxlength="128" class="form-text required" required="required" aria-required="true" />
+
+        </div>
+<input autocomplete="off" data-drupal-selector="form-prpive0nfhbsxzb9pi1gknnhblxldschaod-golvpj0" type="hidden" name="form_build_id" value="form-PrpiVe0nFHBsxZb9PI1GknNhbLxLdSchaoD-golvpJ0" />
+<input data-drupal-selector="edit-bs-views-filter-block-site-index-form" type="hidden" name="form_id" value="bs_views_filter_block_site_index_form" />
+<input data-drupal-selector="edit-honeypot-time" type="hidden" name="honeypot_time" value="6t2ifwY_uEzUn-qcC0O_pUlV1sOewMHUR4j4AEuTslQ" />
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions"><input data-drupal-selector="edit-submit" type="submit" id="edit-submit" name="op" value="Search" class="button js-form-submit form-submit" />
+</div>
+<div class="url-textfield js-form-wrapper form-wrapper" style="display: none !important;"><div class="js-form-item form-item js-form-type-textfield form-type-textfield js-form-item-url form-item-url">
+      <label for="edit-url">Leave this field blank</label>
+        <input autocomplete="off" data-drupal-selector="edit-url" type="text" id="edit-url" name="url" value="" size="20" maxlength="128" class="form-text" />
+
+        </div>
+</div>
+
+</form>
+
+    </div>
+    
+  </div>
+  </div>
+</section><!-- /block -->
+
+  </div>
+  </div>
+</div>
+
+    
+
+    
+
+          <div class="region region-navi-mobl-pane">
+  <div class="region-box-outer">
+  <div class="region-box-inner">
+    <section id="block-zkm-toolnavigationen" class="block-global-menu-navi-tool ui-menu-navi-main-mobl ui-menu-control block block-menu navigation menu--navi-tool-en-en" aria-labelledby="block-zkm-toolnavigationen-menu">
+  <div class="block-box-outer">
+  <div class="block-box-inner">
+
+    <header class="block-head">
+                  
+      <h2 id="block-zkm-toolnavigationen-menu">Tool Navigation - EN</h2>
+      
+    </header>
+
+    <div class="block-body">
+      <nav role="navigation">
+                    
+              <ul class="menu">
+                    <li class="menu-item">
+        <a href="/en/node/57376" class="language-simple" title="Simple Language" data-drupal-link-system-path="node/57376">Simple Language</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/node/62380" class="language-sign" title="Sign Language (german only)" data-drupal-link-system-path="node/62380">Sign Language</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en" class="language" title="Language" data-ui-menu-link-rel-selector="region-navi-tool-pane" data-ui-menu-link-rel-class="ui-menu-language" data-drupal-link-system-path="&lt;front&gt;">Language</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en" class="search" title="Search" data-ui-menu-link-rel-selector="region-navi-tool-pane" data-ui-menu-link-rel-class="ui-menu-search" data-drupal-link-system-path="&lt;front&gt;">Search</a>
+              </li>
+        </ul>
+  
+
+
+            </nav>
+    </div>
+
+  </div>
+  </div>
+</section><!-- /block -->
+<section id="block-zkm-linkserviceen" class="block-global-menu-link-service ui-menu-navi-main-mobl block block-menu navigation menu--link-service-en-en" aria-labelledby="block-zkm-linkserviceen-menu">
+  <div class="block-box-outer">
+  <div class="block-box-inner">
+
+    <header class="block-head">
+                  
+      <h2 id="block-zkm-linkserviceen-menu">Link Service EN</h2>
+      
+    </header>
+
+    <div class="block-body">
+      <nav role="navigation">
+                    
+              <ul class="menu">
+                    <li class="menu-item">
+        <a href="/en/zkm-digital" title="ZKM digital" data-drupal-link-system-path="node/40421">▶</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://webshop.zkm.de/" title="Shop">Shop</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/newsletter/subscribe" title="Sign up to our newsletter " data-drupal-link-system-path="node/66601">Newsletter</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/press" title="Press" data-drupal-link-system-path="node/3663">Press</a>
+              </li>
+        </ul>
+  
+
+
+            </nav>
+    </div>
+
+  </div>
+  </div>
+</section><!-- /block -->
+<section id="block-zkm-mainnavigationen-2" class="block-global-menu-navi-main-mobl ui-menu-navi-main-mobl block block-menu navigation menu--navi-main-en-en" aria-labelledby="block-zkm-mainnavigationen-2-menu">
+  <div class="block-box-outer">
+  <div class="block-box-inner">
+
+    <header class="block-head">
+                  
+      <h2 id="block-zkm-mainnavigationen-2-menu">Main Navigation - EN</h2>
+      
+    </header>
+
+    <div class="block-body">
+      <nav role="navigation">
+                    
+              <ul class="menu">
+                    <li class="menu-item menu-item--expanded">
+        <a href="/en/visit" title="Visit" data-drupal-link-system-path="node/66766">Visit</a>
+                                <ul class="menu">
+                    <li class="menu-item">
+        <a href="/en/visit" title="Everything at a glance" data-drupal-link-system-path="node/66766">Overview</a>
+              </li>
+                <li class="menu-item menu-item--expanded">
+        <a href="/en/opening-hours" title="Opening Hours" data-drupal-link-system-path="node/291">Opening Hours</a>
+                                <ul class="menu">
+                    <li class="menu-item">
+        <a href="/en/opening-hours" title="Opening Hours" data-drupal-link-system-path="node/291">Opening Hours</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/special-opening-hours" title="Special Opening Hours" data-drupal-link-system-path="node/1762">Special Opening Hours</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item menu-item--expanded">
+        <a href="/en/admission-fees" title="Admission Fees" data-drupal-link-system-path="node/1642">Admission Fees</a>
+                                <ul class="menu">
+                    <li class="menu-item">
+        <a href="/en/admission-fees" title="Admission Fees" data-drupal-link-system-path="node/1642">Admission Fees</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/annual-tickets" title="Annual Tickets" data-drupal-link-system-path="node/1895">Annual Tickets</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/museum-pass" title="Museum Pass" data-drupal-link-system-path="node/1904">Museum Pass</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item">
+        <a href="/en/directions" title="Getting here" data-drupal-link-system-path="node/1630">Getting here</a>
+              </li>
+                <li class="menu-item menu-item--expanded">
+        <a href="/en/on-site" title="On Site" data-drupal-link-system-path="node/3607">On Site</a>
+                                <ul class="menu">
+                    <li class="menu-item">
+        <a href="/en/on-site" title="On Site" data-drupal-link-system-path="node/3607">On Site</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/restaurant" title="Restaurant" data-drupal-link-system-path="node/1645">Restaurant</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/zkm-shop" title="ZKM Shop" data-drupal-link-system-path="node/3210">ZKM Shop</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/library" title="Library" data-drupal-link-system-path="node/1740">Library</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/media-lounge" title="Medialounge" data-drupal-link-system-path="node/1737">Medialounge</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item menu-item--collapsed">
+        <a href="/en/accessibility-0" title="ZKM Accessibility" data-drupal-link-system-path="node/69320">Accessibility</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item menu-item--expanded">
+        <a href="/en/program" title="Program" data-drupal-link-system-path="node/265">Program</a>
+                                <ul class="menu">
+                    <li class="menu-item">
+        <a href="/en/program" title="Overview" data-drupal-link-system-path="node/265">Overview</a>
+              </li>
+                <li class="menu-item menu-item--collapsed">
+        <a href="/en/exhibitions" title="Exhibitions" data-drupal-link-system-path="node/40307">Exhibitions</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/events" title="Events" data-drupal-link-system-path="node/1639">Events</a>
+              </li>
+                <li class="menu-item menu-item--collapsed">
+        <a href="/en/guided-tours-workshops" title="Guided Tours &amp; Workshops" data-drupal-link-system-path="node/2879">Guided Tours &amp; Workshops</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/useum" title="USEUM" data-drupal-link-system-path="node/68039">USEUM</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/calendar" title="Calendar" data-drupal-link-system-path="node/3589">Calendar</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/zkm-digital" title="ZKM Digital" data-drupal-link-system-path="node/40421">ZKM Digital</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item menu-item--expanded">
+        <a href="/en/research" title="Research &amp; Production" data-drupal-link-system-path="node/270">Research</a>
+                                <ul class="menu">
+                    <li class="menu-item">
+        <a href="/en/research" title="Overview" data-drupal-link-system-path="node/270">Overview</a>
+              </li>
+                <li class="menu-item menu-item--expanded">
+        <a href="/en/collections-archives" class="ui-menu-main-navi-collection" title="Collections &amp; Archives" data-drupal-link-system-path="node/273">Collections &amp; Archives</a>
+                                <ul class="menu">
+                    <li class="menu-item">
+        <a href="/en/collections-archives" title="Overview" data-drupal-link-system-path="node/273">Overview</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/collection" title="Collection" data-drupal-link-system-path="node/3598">Collection</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/archives" title="Archives" data-drupal-link-system-path="node/3701">Archives</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item menu-item--collapsed">
+        <a href="/en/hertzlab" title="Artistic Research" data-drupal-link-system-path="node/3645">Artistic Research</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/library" title="Library" data-drupal-link-system-path="node/1740">Library</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/publications" title="Publications" data-drupal-link-system-path="node/3613">Publications</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/video-audio" title="Video &amp; audio" data-drupal-link-system-path="node/3627">Video &amp; audio</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/mission-statement-of-the-museum-communication" title="Museum Communication" data-drupal-link-system-path="node/3707">Museum Communication</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/projects" title="Current Projects" data-drupal-link-system-path="node/297">Current Projects</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/topics" title="Key Topics" data-drupal-link-system-path="node/294">Key Topics</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/persons" title="People" data-drupal-link-system-path="node/3610">Persons</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item menu-item--expanded">
+        <a href="/en/about-zkm" title="About ZKM" data-drupal-link-system-path="node/276">ZKM</a>
+                                <ul class="menu">
+                    <li class="menu-item menu-item--collapsed">
+        <a href="/en/about-zkm" title="Mission" data-drupal-link-system-path="node/276">Overview</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/position" title="Our Position" data-drupal-link-system-path="node/67527">Our Position</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/team" title="Team" data-drupal-link-system-path="node/66001">Team</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/contacts" title="Contacts" data-drupal-link-system-path="node/312">Contacts</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/vacancies" title="Vacancies" data-drupal-link-system-path="node/1618">Vacancies</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/submissions" title="Submissions" data-drupal-link-system-path="node/2187">Submissions</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/press" title="Press" data-drupal-link-system-path="node/3663">Press</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/venues-rentals" title="Venues &amp; Rentals" data-drupal-link-system-path="node/1615">Venues &amp; Rentals</a>
+              </li>
+                <li class="menu-item menu-item--collapsed">
+        <a href="/en/partners" title="Support" data-drupal-link-system-path="node/1609">Support</a>
+              </li>
+        </ul>
+  
+              </li>
+        </ul>
+  
+
+
+            </nav>
+    </div>
+
+  </div>
+  </div>
+</section><!-- /block -->
+
+  </div>
+  </div>
+</div>
+
+    
+
+  </div>  </div>  </div>
+
+
+
+  <div class="page-body">
+  <div class="page-body-box-outer">
+  <div class="page-body-box-inner">
+
+
+          <div class="region region-navi-path">
+  <div class="region-box-outer">
+  <div class="region-box-inner">
+    <section class="views-element-container block block-views block-views-blocknode-breadcrumb-global-block-3" id="block-zkm-views-block-node-breadcrumb-global-block-3">
+  <div class="block-box-outer">
+  <div class="block-box-inner">
+
+    
+        
+
+        <div class="block-body">
+      <div><div class="view view-node-breadcrumb-global view-id-node_breadcrumb_global view-display-id-block_3 js-view-dom-id-a871f25f4586c70a0b6ee9c584c211a933e5a8063ad10ba0bb8466e59103052c">
+  
+    
+      
+      <div class="view-content">
+      
+<nav class="breadcrumb" role="navigation" aria-labelledby="system-breadcrumb">
+  
+          <ol itemscope itemtype="https://schema.org/BreadcrumbList">
+<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+		  	  <a itemprop="item" href="/en/program"><span itemprop="name">Program</span></a>	<meta itemprop="position" content="" />
+</li>
+
+<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+		  	  <a itemprop="item" href="/en/events"><span itemprop="name">Events
+</span></a>	<meta itemprop="position" content="" />
+</li>
+
+<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+		  	  Isle of Coding	<meta itemprop="position" content="" />
+</li>
+</ol>
+    
+</nav>
+
+
+
+
+    </div>
+  
+          </div>
+</div>
+
+    </div>
+    
+  </div>
+  </div>
+</section><!-- /block -->
+
+  </div>
+  </div>
+</div>
+
+    
+
+    
+
+    
+
+    <div class="main-aside">
+
+
+      <a id="main-content" class="skip-link-target" tabindex="-1"></a>
+
+              <div class="region region-help">
+  <div class="region-box-outer">
+  <div class="region-box-inner">
+    <div data-drupal-messages-fallback class="hidden"></div>
+
+  </div>
+  </div>
+</div>
+
+      
+
+              <main class="region region-content">
+  <section id="block-mainpagecontent" class="block block-system block-system-main-block">
+  <div class="block-box-outer">
+  <div class="block-box-inner">
+
+    
+        
+
+        <div class="block-body">
+      <div class="node node--type-event node--id-66098 node--view-mode-full">
+
+  
+  
+      
+  
+</div>
+
+    </div>
+    
+  </div>
+  </div>
+</section><!-- /block -->
+<section class="views-element-container block block-views block-views-blocknode-block-1" id="block-views-block-node-block-1">
+  <div class="block-box-outer">
+  <div class="block-box-inner">
+
+    
+        
+
+        <div class="block-body">
+      <div>
+<div class="view-wrapper view-node view-id-node view-display-id-block_1 js-view-dom-id-48ce855a8c078daa9e560392ea6f74eb02f34559f187ba17fc53c3d243f53376">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><article class="node node--type-event node--id-66098 node--view-mode-node-detail global-node-head-lyt-default global-node-head-cpa-default global-node-menu-dsp-default">
+
+  
+  
+      
+<header  class="group-node-head gnh-lyt-var-2">
+    
+<div  class="group-header-title">
+    
+<div  class="group-section-label field-group-data field-group-data-dsply-flex">
+    
+  <div class="lst-dsply-mkz field field--name-field-event-format field--type-list-string field--label-hidden">
+    <ul class="field__items">
+        <li class="field__item">Event</li>
+    </ul>
+  </div>
+  <div class="lst-dsply-mkz field field--name-field-event-type field--type-list-string field--label-hidden">
+    <ul class="field__items">
+        <li class="field__item">Performance</li>
+    </ul>
+  </div>
+  </div>
+  <div class="clearfix text-formatted field field--name-field-global-headline field--type-text field--label-hidden field__items">
+        <h1 class="field__item">Isle of Coding</h1>
+  </div>
+  </div>
+<div  class="group-header-data">
+    
+  <div class="clearfix text-formatted field field--name-field-event-subtitle field--type-text field--label-hidden field__items">
+        <h2 class="field__item">Afterwork Party</h2>
+  </div>
+  <div class="field field--name-field-event-date-range field--type-daterange field--label-hidden field__items">
+        <h2 class="field__item">Thu, March 14, 2024 5:00 pm – 10:00 pm CET</h2>
+  </div>
+  </div>
+<div  class="group-header-media">
+    
+  <div class="field field--name-field-event-md-image-main field--type-entity-reference field--label-hidden field__items">
+        <div class="field__item">
+
+<div class="media media--type-image media-id--20165 media--view-mode-node-media-detail">
+  
+  
+<div  class="group-media-view ui-gmd-dsply-layer">
+    
+<div  class="group-media-area">
+    
+  <div class="field field--name-field-media-image field--type-image field--label-hidden field__items">
+        <figure class="field__item">
+<a href="https://zkm.de/system/files/styles/img_node_media_detail_zoom/private/field_media_image/2024/02/21/002402/zkm000160716.jpg?itok=kkPlPYLJ" aria-label="{&quot;title&quot;:&quot;View into the event »Colourful Night of Digitalization«, October 11, 2019, ZKM | Center for Art and Media Karlsruhe / © ZKM | Center for Art and Media Karlsruhe, photo: Dennis Dorwarth Fotografie&quot;,&quot;alt&quot;:&quot;Person doing live coding at a party.&quot;}" role="button"  title="View into the event »Colourful Night of Digitalization«, October 11, 2019, ZKM | Center for Art and Media Karlsruhe / © ZKM | Center for Art and Media Karlsruhe, photo: Dennis Dorwarth Fotografie" data-colorbox-gallery="gallery-image-20165-pVpP8VWzIG0" class="colorbox" aria-controls="colorbox-fSMrnykORM4" data-cbox-img-attrs="{&quot;title&quot;:&quot;View into the event »Colourful Night of Digitalization«, October 11, 2019, ZKM | Center for Art and Media Karlsruhe / © ZKM | Center for Art and Media Karlsruhe, photo: Dennis Dorwarth Fotografie&quot;,&quot;alt&quot;:&quot;Person doing live coding at a party.&quot;}"><img id="colorbox-fSMrnykORM4" src="/system/files/styles/img_node_media_detail/private/field_media_image/2024/02/21/002402/zkm000160716.jpg?itok=MmuQva--" width="1600" height="1000" alt="Person doing live coding at a party." title="View into the event »Colourful Night of Digitalization«, October 11, 2019, ZKM | Center for Art and Media Karlsruhe / © ZKM | Center for Art and Media Karlsruhe, photo: Dennis Dorwarth Fotografie" loading="lazy" class="image-style-img-node-media-detail" />
+
+</a>
+</figure>
+  </div>
+  </div>
+<div  class="group-media-data">
+    
+  <div class="clearfix text-formatted field field--name-field-media-global-credit field--type-text-long field--label-hidden field__items">
+        <div class="field__item">© ZKM | Center for Art and Media Karlsruhe, photo: Dennis Dorwarth Fotografie</div>
+  </div>
+  </div>
+  </div>
+</div>
+</div>
+  </div>
+  </div>
+  </header>
+<div  class="group-node-body gnb-lyt-var-1">
+    
+<div  class="group-area-preface">
+    
+<div  class="group-section-prfc">
+    
+  <dl class="field field--name-field-event-rel-location field--type-entity-reference field--label-above field__items">
+    <dt class="field__label">Location</dt>
+        <dd class="field__item"><a href="/en/locations/isle-hub-forecourt" hreflang="en">Isle Hub on the Forecourt</a></dd>
+  </dl>
+  </div>
+  </div>
+<div  class="group-area-article">
+    
+<div  class="group-section-main">
+    
+  <div class="clearfix text-formatted field field--name-field-event-text field--type-text-long field--label-hidden field__items">
+        <div class="field__item"><p>We cordially invite all fans of the afterworks to the »ZKM | Isle of Coding«&nbsp;Spring Session on the island in front of the »Hallenbau«. With DJ music and visual performance. Come along to experience live coding and the first feelings of spring together!</p><p>Live coding is a form of programming in which the coding process takes place directly in front of the audience. Using algorithms, the artists create visual shapes and patterns and simultaneously merge technology and art. The live coded visuals by Yasha Jain &amp; friends will be accompanied musically by Karlsruhe DJ heroes kitchen.tunes. Not only will the beats be cool and hot, but the MINT bar will also be at the start with mulled wine or cocktails,&nbsp;depending on what the weather has in store for us in March.</p><p>»Isle of Coding«&nbsp;is aimed at everyone, regardless of age or technology background. It's an opportunity to meet up with colleagues, friends and artists while discovering the world of programming in a new way. Come along and experience live coding up close!</p></div>
+  </div>
+  </div>
+  </div>
+<div  class="group-area-content">
+    
+  <div class="field field--name-field-event-rel-content field--type-entity-reference field--label-hidden field__items">
+        <div class="field__item"><div class="node node--type-content node--id-66221 node--view-mode-full">
+
+  
+  
+      
+  <div class="field field--name-field-content-para-content field--type-entity-reference-revisions field--label-hidden field__items">
+        <div class="field__item">
+
+
+
+  <div  class="paragraph paragraph--type--gpc-container paragraph-id--148630 paragraph--view-mode--list-accordion gpc-cntnr-type-list-accordion gpc-cntnr-layout-undefined" >
+  <div class="para-box-outer">
+  <div class="para-box-inner">
+          
+<div  class="group-gpc-head">
+    
+  <div class="field field--name-field-gpc-cntnr-hd-rl-gpc-cntnt field--type-entity-reference-revisions field--label-hidden field__items">
+        <div class="field__item">
+
+
+
+
+
+
+  <div  class="paragraph paragraph--type--gpc-content paragraph-id--148631 paragraph--view-mode--detail gpc-cntnt-type-default gpc-cntnt-layout-default-12"  >
+  <div class="para-box-outer">
+  <div class="para-box-inner">
+          
+<div  class="group-gpc-body">
+    
+<div  class="group-gpc-area-text">
+    
+
+
+
+  <div class="fld-dsply-mkz field field--name-field-gpc-global-headline field--type-text field--label-hidden field__items">
+        <h2 class="field__item">DJs: kitchen.tunes</h2>
+  </div>
+  </div>
+  </div>
+      </div>
+  </div>
+  </div>
+</div>
+  </div>
+  </div>
+<div  class="group-gpc-body">
+    
+  <div class="field field--name-field-gpc-cntnr-bd-rl-item field--type-entity-reference-revisions field--label-hidden">
+    <ol class="field__items">
+        <li class="field__item">
+
+
+
+
+
+
+  <div  class="paragraph paragraph--type--gpc-content paragraph-id--148632 paragraph--view-mode--list-accordion gpc-cntnt-type-default gpc-cntnt-layout-default-12"  >
+  <div class="para-box-outer">
+  <div class="para-box-inner">
+          
+<div  class="group-gpc-head">
+    
+
+
+
+  <div class="field field--name-field-gpc-global-headline field--type-text field--label-hidden field__items">
+        <h3 class="field__item">Markus Kleemann</h3>
+  </div>
+  </div>
+<div  class="group-gpc-body">
+    
+  <div class="clearfix text-formatted field field--name-field-gpc-cntnt-text field--type-text-long field--label-hidden field__items">
+        <div class="field__item"><p>Markus Kleemann (Ronny Klein) has been inspired by the American techno scene since 2009. Dennis Ferrer and The Martines Brothers helped Markus to find his own sound, which is characterized by a driving rhythm and dominant drums. Afro House is also an integral part of Markus' sets. Afro House transports the primal rhythm that all people carry within them and that connects us all.</p><p>Markus lives his musical enthusiasm every day anew. He is also inspired by soundtracks by Hans Zimmer or jazz. All these influences have an emotional impact on his musical work.</p><p>Markus is anchored in and around Karlsruhe. He is not only resident DJ at the Venus Bar, but also organizer of various events such as the Hubraum Festival and Zoom at ZKM | Karlsruhe.</p></div>
+  </div>
+  </div>
+      </div>
+  </div>
+  </div>
+</li>
+        <li class="field__item">
+
+
+
+
+
+
+  <div  class="paragraph paragraph--type--gpc-content paragraph-id--148633 paragraph--view-mode--list-accordion gpc-cntnt-type-default gpc-cntnt-layout-default-12"  >
+  <div class="para-box-outer">
+  <div class="para-box-inner">
+          
+<div  class="group-gpc-head">
+    
+
+
+
+  <div class="field field--name-field-gpc-global-headline field--type-text field--label-hidden field__items">
+        <h3 class="field__item">Chhunly</h3>
+  </div>
+  </div>
+<div  class="group-gpc-body">
+    
+  <div class="clearfix text-formatted field field--name-field-gpc-cntnt-text field--type-text-long field--label-hidden field__items">
+        <div class="field__item"><p>Chhunly was already influenced by electronic music at the end of the 90s. Inspired by labels such as Perlon and Roulé, his driving, groovy beats have made countless ceilings drop from Frankfurt to Baden in the south of Germany!</p><p>Since 2014, he has been a resident at the infamous Venus Bar with Listen or Dance and can be found regularly in various clubs and bars in the region, where he and his collective always escalate the evenings into sound-filled experiences.</p></div>
+  </div>
+  </div>
+      </div>
+  </div>
+  </div>
+</li>
+    </ol>
+  </div>
+  </div>
+      </div>
+  </div>
+  </div>
+</div>
+        <div class="field__item">
+
+
+
+  <div  class="paragraph paragraph--type--gpc-container paragraph-id--148634 paragraph--view-mode--list-accordion gpc-cntnr-type-list-accordion gpc-cntnr-layout-undefined" >
+  <div class="para-box-outer">
+  <div class="para-box-inner">
+          
+<div  class="group-gpc-head">
+    
+  <div class="field field--name-field-gpc-cntnr-hd-rl-gpc-cntnt field--type-entity-reference-revisions field--label-hidden field__items">
+        <div class="field__item">
+
+
+
+
+
+
+  <div  class="paragraph paragraph--type--gpc-content paragraph-id--148635 paragraph--view-mode--detail gpc-cntnt-type-default gpc-cntnt-layout-default-12"  >
+  <div class="para-box-outer">
+  <div class="para-box-inner">
+          
+<div  class="group-gpc-body">
+    
+<div  class="group-gpc-area-text">
+    
+
+
+
+  <div class="fld-dsply-mkz field field--name-field-gpc-global-headline field--type-text field--label-hidden field__items">
+        <h2 class="field__item">VJs</h2>
+  </div>
+  </div>
+  </div>
+      </div>
+  </div>
+  </div>
+</div>
+  </div>
+  </div>
+<div  class="group-gpc-body">
+    
+  <div class="field field--name-field-gpc-cntnr-bd-rl-item field--type-entity-reference-revisions field--label-hidden">
+    <ol class="field__items">
+        <li class="field__item">
+
+
+
+
+
+
+  <div  class="paragraph paragraph--type--gpc-content paragraph-id--148636 paragraph--view-mode--list-accordion gpc-cntnt-type-default gpc-cntnt-layout-default-12"  >
+  <div class="para-box-outer">
+  <div class="para-box-inner">
+          
+<div  class="group-gpc-head">
+    
+
+
+
+  <div class="field field--name-field-gpc-global-headline field--type-text field--label-hidden field__items">
+        <h3 class="field__item">Yasha Jain aka weirdwithcode</h3>
+  </div>
+  </div>
+<div  class="group-gpc-body">
+    
+  <div class="clearfix text-formatted field field--name-field-gpc-cntnt-text field--type-text-long field--label-hidden field__items">
+        <div class="field__item"><p>Audio-reactive live coding performance with Touchdesigner</p></div>
+  </div>
+  </div>
+      </div>
+  </div>
+  </div>
+</li>
+        <li class="field__item">
+
+
+
+
+
+
+  <div  class="paragraph paragraph--type--gpc-content paragraph-id--148637 paragraph--view-mode--list-accordion gpc-cntnt-type-default gpc-cntnt-layout-default-12"  >
+  <div class="para-box-outer">
+  <div class="para-box-inner">
+          
+<div  class="group-gpc-head">
+    
+
+
+
+  <div class="field field--name-field-gpc-global-headline field--type-text field--label-hidden field__items">
+        <h3 class="field__item">Daniel Kurosch aka Daniel Höpfner</h3>
+  </div>
+  </div>
+<div  class="group-gpc-body">
+    
+  <div class="clearfix text-formatted field field--name-field-gpc-cntnt-text field--type-text-long field--label-hidden field__items">
+        <div class="field__item"><p>In his second live coding performance, in which only visuals are programmed, Daniel K. Höpfner tries his hand at programming GLSL shaders - rgb, b/w, gradient, fract, 1/c, etc.</p></div>
+  </div>
+  </div>
+      </div>
+  </div>
+  </div>
+</li>
+        <li class="field__item">
+
+
+
+
+
+
+  <div  class="paragraph paragraph--type--gpc-content paragraph-id--148638 paragraph--view-mode--list-accordion gpc-cntnt-type-default gpc-cntnt-layout-default-12"  >
+  <div class="para-box-outer">
+  <div class="para-box-inner">
+          
+<div  class="group-gpc-head">
+    
+
+
+
+  <div class="field field--name-field-gpc-global-headline field--type-text field--label-hidden field__items">
+        <h3 class="field__item">Jasmin Meerhoff alias nervousdata</h3>
+  </div>
+  </div>
+<div  class="group-gpc-body">
+    
+  <div class="clearfix text-formatted field field--name-field-gpc-cntnt-text field--type-text-long field--label-hidden field__items">
+        <div class="field__item"><p>Texts and displays from centuries-old technology are sent through an algorithmically controlled, cobbled-together reprocessing plant that sometimes runs smoothly, but mostly jerks. Slicing, grinding and pressing: concrete poetry.</p></div>
+  </div>
+  </div>
+      </div>
+  </div>
+  </div>
+</li>
+    </ol>
+  </div>
+  </div>
+      </div>
+  </div>
+  </div>
+</div>
+  </div>
+  
+</div>
+</div>
+  </div>
+  </div>
+<div  class="group-area-program">
+    
+  <div class="field field--name-field-event-view-event-program field--type-viewsreference field--label-hidden field__items">
+        <div class="field__item"><div class="views-element-container"><div class="viewsreference--view-title">
+    Accompanying program
+</div>
+</div>
+</div>
+  </div>
+  </div>
+  </div>
+  
+</article>
+</div>
+
+    </div>
+  
+          </div>
+</div>
+
+    </div>
+    
+  </div>
+  </div>
+</section><!-- /block -->
+
+</main>
+ 
+
+      
+
+      
+
+    </div>
+
+    
+
+    
+
+    
+
+        
+
+        
+
+        
+
+        
+
+              
+    
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+    
+
+    
+
+    
+
+    
+
+    
+
+  </div>  </div>  </div>
+
+  <div class="page-foot">
+  <div class="page-foot-box-outer">
+  <div class="page-foot-box-inner">
+
+
+          <div class="region region-navi-meta">
+  <div class="region-box-outer">
+  <div class="region-box-inner">
+    <section id="block-zkm-metanavigationen" class="block-global-menu-navi-meta block block-menu navigation menu--navi-meta-en-en" aria-labelledby="block-zkm-metanavigationen-menu">
+  <div class="block-box-outer">
+  <div class="block-box-inner">
+
+    <header class="block-head">
+                  
+      <h2 id="block-zkm-metanavigationen-menu">Meta Navigation - EN</h2>
+      
+    </header>
+
+    <div class="block-body">
+      <nav role="navigation">
+                    
+              <ul class="menu">
+                    <li class="menu-item">
+        <a href="/en/imprint" title="Imprint" data-drupal-link-system-path="node/1621">Imprint</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/privacy-policy" title="Privacy Policy" data-drupal-link-system-path="node/1624">Privacy Policy</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/press" title="Press" data-drupal-link-system-path="node/3663">Press</a>
+              </li>
+        </ul>
+  
+
+
+            </nav>
+    </div>
+
+  </div>
+  </div>
+</section><!-- /block -->
+<section id="block-zkm-linksocial" class="block-global-menu-link-social block block-menu navigation menu--link-social" aria-labelledby="block-zkm-linksocial-menu">
+  <div class="block-box-outer">
+  <div class="block-box-inner">
+
+    <header class="block-head">
+                  
+      <h2 id="block-zkm-linksocial-menu">Link Social</h2>
+      
+    </header>
+
+    <div class="block-body">
+      <nav role="navigation">
+                    
+              <ul class="menu">
+                    <li class="menu-item">
+        <a href="https://www.facebook.com/zkmkarlsruhe" class="icon facebook" target="_blank">FaceBook</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://instagram.com/zkmkarlsruhe/" class="icon instagram" target="_blank">Instagram</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://www.youtube.com/user/ZKMkarlsruhe" class="icon youtube" target="_blank">YouTube</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://www.tiktok.com/@zkmkarlsruhe" class="icon tiktok">TikTok</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://www.linkedin.com/company/zkm-zentrum-f%C3%BCr-kunst-und-medien" class="icon linkedin">LinkedIn</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://itunes.apple.com/de/artist/zentrum-f%C3%BCr-kunst-und-medien-karlsruhe/1280874173?mt=2" target="_blank">Podcasts</a>
+              </li>
+        </ul>
+  
+
+
+            </nav>
+    </div>
+
+  </div>
+  </div>
+</section><!-- /block -->
+
+  </div>
+  </div>
+</div>
+
+    
+
+          <div class="region region-navi-main-foot">
+  <div class="region-box-outer">
+  <div class="region-box-inner">
+    <section class="views-element-container block-global-block-contact block-global-head-less block block-views block-views-blockblock-contact-block-2" id="block-views-block-block-contact-block-2">
+  <div class="block-box-outer">
+  <div class="block-box-inner">
+
+    
+        <header class="block-head">
+      <h2>Footer</h2>
+    </header>
+        
+
+        <div class="block-body">
+      <div><div class="view view-block-contact view-id-block_contact view-display-id-block_2 js-view-dom-id-e78c0926695f40a972d4c424f93a71fe1fbc205425c8443a7990e48bc9c3430d">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-rendered-entity"><div class="field-content">
+  <div class="field field--name-field-block-contact-headline field--type-string field--label-hidden field__items">
+        <h3 class="field__item">ZKM | Center for Art and Media</h3>
+  </div>
+  <div class="clearfix text-formatted field field--name-field-block-contact-text field--type-text-long field--label-hidden field__items">
+        <div class="field__item"><p>Lorenzstraße 19<br>76135 Karlsruhe</p><p>+49 (0) 721 - 8100 - 1200<br><a href="mailto:info@zkm.de">info@zkm.de</a></p></div>
+  </div></div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+
+    </div>
+    
+  </div>
+  </div>
+</section><!-- /block -->
+
+  </div>
+  </div>
+</div>
+
+    
+
+          <footer class="region region-footer">
+  <section class="views-element-container block-global-head-less block block-views block-views-blocknode-organization-block-10" id="block-views-block-node-organization-block-10">
+  <div class="block-box-outer">
+  <div class="block-box-inner">
+
+    
+        <header class="block-head">
+      <h2>Organization</h2>
+    </header>
+        
+
+        <div class="block-body">
+      <div><div class="view-organization-footer view view-node-organization view-id-node_organization view-display-id-block_10 js-view-dom-id-031c5f0c00ecf3d3464d7718290cf309c54d7156d19ac942a7116d82680bd75a">
+  
+    
+      
+      <div class="view-content">
+      <div class="item-list">
+      <h3>Founders of ZKM</h3>
+  
+  <ul>
+
+          <li><div class="views-field views-field-field-organization-logo-inv"><div class="field-content"><a href="https://mwk.baden-wuerttemberg.de" title="Ministerium für Wissenschaft, Forschung und Kunst Baden-Württemberg" target="_blank">  <img loading="lazy" src="/system/files/styles/node_orgnztn_logo_sml/private/field_organization_logo_inv/2024/11/07/100817/BaWue_MWK_Logo_rgb_pos.png?itok=OvgG5pa-" width="540" height="100" alt="Logo des Ministeriums für Forschung, Wissenschaft und Kunst Baden Württemberg" class="image-style-node-orgnztn-logo-sml" />
+
+
+</a></div></div></li>
+          <li><div class="views-field views-field-field-organization-logo-inv"><div class="field-content"><a href="https://www.karlsruhe.de" title="Stadt Karlsruhe" target="_blank">  <img loading="lazy" src="/system/files/styles/node_orgnztn_logo_sml/private/field_organization_logo_inv/2024/12/09/153242/Logo_Stadt-Karlsruhe_schwarz.png?itok=6s21irL-" width="98" height="100" alt="Logo der Stadt Karlsruhe" class="image-style-node-orgnztn-logo-sml" />
+
+
+</a></div></div></li>
+    
+  </ul>
+
+</div>
+<div class="item-list">
+      <h3>Partner of ZKM</h3>
+  
+  <ul>
+
+          <li><div class="views-field views-field-field-organization-logo-inv"><div class="field-content"><a href="https://www.enbw.com" title="EnBW AG" target="_blank">  <img loading="lazy" src="/system/files/styles/node_orgnztn_logo_sml/private/field_organization_logo_inv/2024/04/26/174743/enbw_logo_standard_schwarz_lab.png?itok=9TyB5JP5" width="559" height="100" alt="Logo EnBW" class="image-style-node-orgnztn-logo-sml" />
+
+
+</a></div></div></li>
+    
+  </ul>
+
+</div>
+<div class="item-list">
+      <h3>Media Partners</h3>
+  
+  <ul>
+
+          <li><div class="views-field views-field-field-organization-logo-inv"><div class="field-content"><a href="https://www.monopol-magazin.de/" title="monopol" target="_blank">  <img loading="lazy" src="/system/files/styles/node_orgnztn_logo_sml/private/field_organization_logo_inv/2024/04/23/161020/mnp_logo_schwarz.jpeg?itok=OT2-Q3HB" width="432" height="100" alt="monopol Magazin für Kunst und Leben" class="image-style-node-orgnztn-logo-sml" />
+
+
+</a></div></div></li>
+          <li><div class="views-field views-field-field-organization-logo-inv"><div class="field-content"><a href="https://www.ard.de/" title="ARD" target="_blank">  <img loading="lazy" src="/system/files/styles/node_orgnztn_logo_sml/private/field_organization_logo_inv/2024/04/23/160848/ard_logo_schwarz.png?itok=GwjKYXpl" width="340" height="100" alt="Logo ARD" class="image-style-node-orgnztn-logo-sml" />
+
+
+</a></div></div></li>
+          <li><div class="views-field views-field-field-organization-logo-inv"><div class="field-content"><a href="https://www.arte.tv/de" title="arte" target="_blank">  <img loading="lazy" src="/system/files/styles/node_orgnztn_logo_sml/private/field_organization_logo_inv/2024/04/23/161456/arte_logo_sw.png?itok=BJ3ClAW_" width="405" height="100" alt="Logo Arte" class="image-style-node-orgnztn-logo-sml" />
+
+
+</a></div></div></li>
+          <li><div class="views-field views-field-field-organization-logo-inv"><div class="field-content"><a href="https://www.swr.de/swrkultur/" title="SWR Kultur" target="_blank">  <img loading="lazy" src="/system/files/styles/node_orgnztn_logo_sml/private/field_organization_logo_inv/2024/11/07/102025/SWR_Kultur_Logo_4c_schwarz.jpg?itok=iTp3QINv" width="207" height="100" alt="Logo SWR 2" class="image-style-node-orgnztn-logo-sml" />
+
+
+</a></div></div></li>
+          <li><div class="views-field views-field-field-organization-logo-inv"><div class="field-content"><a href="https://www.kulturinkarlsruhe.de/" title="Kultur in Karlsruhe" target="_blank">  <img loading="lazy" src="/system/files/styles/node_orgnztn_logo_sml/private/field_organization_logo_inv/2025/07/31/171036/smka_1678_siegel_schwarz_rgb.png?itok=QfnehPnu" width="100" height="100" alt="Logo Kultur in Karlsruhe" class="image-style-node-orgnztn-logo-sml" />
+
+
+</a></div></div></li>
+    
+  </ul>
+
+</div>
+<div class="item-list">
+      <h3>Mobility Partners</h3>
+  
+  <ul>
+
+          <li><div class="views-field views-field-field-organization-logo-inv"><div class="field-content"><a href="https://www.bwegt.de/" title="bwegt plus" target="_blank">  <img loading="lazy" src="/system/files/styles/node_orgnztn_logo_sml/private/field_organization_logo_inv/2024/04/23/162010/bwegt_plus_positiv_weiss.png?itok=oyKOsm3g" width="272" height="100" alt="Logo von bwegt plus" class="image-style-node-orgnztn-logo-sml" />
+
+
+</a></div></div></li>
+    
+  </ul>
+
+</div>
+<div class="item-list">
+      <h3>Further Institutions in the Hallenbau</h3>
+  
+  <ul>
+
+          <li><div class="views-field views-field-field-organization-logo-inv"><div class="field-content"><a href="https://www.hfg-karlsruhe.de/" title="Karlsruhe University of Art and Design (HfG)" target="_blank">  <img loading="lazy" src="/system/files/styles/node_orgnztn_logo_sml/private/field_organization_logo_inv/2024/04/23/164032/hfglogo_0000_ebene-1.png?itok=JNROzEl0" width="714" height="100" alt="Logo Staatliche Hochschule für Gestaltung Karlsruhe" class="image-style-node-orgnztn-logo-sml" />
+
+
+</a></div></div></li>
+          <li><div class="views-field views-field-field-organization-logo-inv"><div class="field-content"><a href="https://kunstmuseum-karlsruhe.de" title="Kunstmuseum Karlsruhe" target="_blank">  <img loading="lazy" src="/system/files/styles/node_orgnztn_logo_sml/private/field_organization_logo_inv/2026/02/02/093548/Kunstmuseum_Karlsruhe_Wortmarke_zweizeilig_schwarz_links_Jan2026.png?itok=E9L3r7qi" width="370" height="100" alt="Logo Kunstmuseum Karlsruhe" class="image-style-node-orgnztn-logo-sml" />
+
+
+</a></div></div></li>
+          <li><div class="views-field views-field-field-organization-logo-inv"><div class="field-content"><a href="https://www.kunsthalle-karlsruhe.de/" title="Staatliche Kunsthalle Karlsruhe" target="_blank">  <img loading="lazy" src="/system/files/styles/node_orgnztn_logo_sml/private/field_organization_logo_inv/2024/04/29/163220/skk.png?itok=WOcFYVAR" width="196" height="100" alt="2021_skk_logo_zweifarbig" class="image-style-node-orgnztn-logo-sml" />
+
+
+</a></div></div></li>
+    
+  </ul>
+
+</div>
+<div class="item-list">
+  
+  <ul>
+
+          <li><div class="views-field views-field-field-organization-logo-inv"><div class="field-content"><a href="https://www.charta-der-vielfalt.de/" title="Charta der Vielfalt" target="_blank">  <img loading="lazy" src="/system/files/styles/node_orgnztn_logo_sml/private/field_organization_logo_inv/2024/04/26/174859/cdv-logo.jpeg?itok=-O0wmSzr" width="314" height="100" alt="Logo von Charta der Vielfalt" class="image-style-node-orgnztn-logo-sml" />
+
+
+</a></div></div></li>
+          <li><div class="views-field views-field-field-organization-logo-inv"><div class="field-content"><a href="https://www.cityofmediaarts.de/" title="City of Media Arts Karlsruhe" target="_blank">  <img loading="lazy" src="/system/files/styles/node_orgnztn_logo_sml/private/field_organization_logo_inv/2024/07/10/121442/logo_karlsruhe-unesco_rgb_400px.jpg?itok=mogqz2sI" width="159" height="100" alt="Karlsruhe ist UNESCO City of Media Arts" class="image-style-node-orgnztn-logo-sml" />
+
+
+</a></div></div></li>
+    
+  </ul>
+
+</div>
+
+    </div>
+  
+          </div>
+</div>
+
+    </div>
+    
+  </div>
+  </div>
+</section><!-- /block -->
+
+</footer>
+ 
+
+    
+
+
+  </div>  </div>  </div>
+
+
+
+  <div class="page-toes">
+  <div class="page-toes-box-outer">
+  <div class="page-toes-box-inner">
+
+
+          <div class="region region-area-widget">
+  <div class="region-box-outer">
+  <div class="region-box-inner">
+    <section class="views-element-container block-global-head-less block block-views block-views-blocknode-dialog-block-1" id="block-views-block-node-dialog-block-1">
+  <div class="block-box-outer">
+  <div class="block-box-inner">
+
+    
+        <header class="block-head">
+      <h2>Dialog</h2>
+    </header>
+        
+
+        <div class="block-body">
+      <div><div class="view view-node-dialog view-id-node_dialog view-display-id-block_1 js-view-dom-id-48550c007fa3d7a7bb3eb91b322a8c8c956f247275a45766c8d6ce592b775a7d">
+  
+    
+      
+  
+          </div>
+</div>
+
+    </div>
+    
+  </div>
+  </div>
+</section><!-- /block -->
+
+  </div>
+  </div>
+</div>
+
+    
+
+  </div>  </div>  </div>
+
+
+
+</div>
+
+  </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"en\/","currentPath":"node\/66098","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"eJx1UdGSgyAM_CEon-QESDXXQBiCXtuvP7S22oebcTC7C8smeAi3oUn_ivNHPVCQbPw_4o8ar0PFSBVDc6d6aBMmNEFYqpe7i3iFmduHGFggui_UtYouS03A9ESToEkS9_qZPA5M49RWs1NtClQYK5RJXaxzAb4czGXOZfZMOmE0-tCGqcdXNAvhr7ptvSSJM6N53pK7EnK0I4sHtlki2gkh2lBgk3chqJ7hzwvNZCH0DiL1eb2JTD39iVjtsNor3XugnUt9YmAXiigHledzvTqjKvk955vOsPRKPH_Yo5eOCsOj3_ZlraEKf_Y3EW5U3nAdSA_HrZ_CexE9Um7S3nEkXa376XE8btt2bEPDBXOzpUp_hfQHg7vlvQ","theme":"zkm","theme_token":null},"ajaxTrustedUrl":{"form_action_p_pvdeGsVG5zNF_XLGPTvYSKCf43t8qZYSwcfZl2uzM":true},"back_to_top":{"back_to_top_button_trigger":100,"back_to_top_speed":1200,"back_to_top_prevent_on_mobile":true,"back_to_top_prevent_in_admin":false,"back_to_top_button_type":"image","back_to_top_button_text":"Back to top"},"colorbox":{"transition":"elastic","speed":350,"opacity":1,"slideshow":true,"slideshowAuto":false,"slideshowSpeed":2500,"slideshowStart":"start slideshow","slideshowStop":"stop slideshow","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","overlayClose":true,"returnFocus":true,"maxWidth":"98%","maxHeight":"98%","initialWidth":"300","initialHeight":"250","fixed":true,"scrolling":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"matomo":{"disableCookies":false,"trackMailto":true,"trackColorbox":true},"field_group":{"html_element":{"mode":"node_detail","context":"view","settings":{"classes":"group-section-label field-group-data field-group-data-dsply-flex","show_empty_fields":false,"id":"","element":"div","show_label":false,"label_element":"h3","label_element_classes":"","attributes":"","effect":"none","speed":"fast","label_as_html":false}}},"better_exposed_filters":{"datepicker_options":{"dateformat":"dd.mm.yy","language":"de"}},"user":{"uid":0,"permissionsHash":"4107e8e1f4c52e5d0973f514882b4c4e0eabe09ccb2157a4994ca26847575b03"}}</script>
+<script src="/sites/default/files/js/js_aqCS80qyrliFJJoyZVGzHA5zzx8EMzxDfNq2rZn2m5k.js?scope=footer&amp;delta=0&amp;language=en&amp;theme=zkm&amp;include=eJxVj4GOwyAMQ3-oiE-qAmRdbgEjoF23rz-6u7arhIT9SCzjyD_Ghn6ydacef-rgoSgOqw18o1nbAUYFBXtxQ6SGCPt3De9HtJPCkZoetLlZDHmPEgTpAEn6_Be4MwUu5iYrh51FDkJmkcA4UZq_9ZbMtYpTvuBES1dwutOs9Or5l7DqC_SYaIA2ybtdhJ-9jra-xWtGPXt9nv7_GKRu0X17ms4On4mEwIYXTs3kgqlQ_AWib4zP"></script>
+
+  </body>
+</html>

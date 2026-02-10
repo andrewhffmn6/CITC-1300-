@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Responsive</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+
+<body>
+    <div class="spiral-container">
+        <div class="spiral spiral1"></div>
+        <div class="spiral spiral2"></div>
+        <div class="spiral spiral3"></div>
+        <div class="spiral spiral4"></div>
+        <div class="spiral spiral5"></div>
+    </div>
+
+<header>
+<br>
+<br>
+<br>
+    <video width="600" height="300" autoplay muted>
+    <source src="images/Live Coding.mp4" type="video/mp4">
+    </video>
+</header>    
+
+<div>
+    <nav>
+        <section>
+            <li><a href="home.html" style="--clr:#1e9bff"><span>Home</span><i></i></a></li>
+        </section>
+
+        <aside>
+            <li><a href="strudel.html" style="--clr:#ff1867"><span>Strudel</span><i></i></a></li>
+        </aside>
+
+        <section>
+            <li><a href="popular.html" style="--clr:#b8860b"><span>Coders</span><i></i></a></li>
+        </section>
+
+        <aside>
+            <li><a href="algorave.html" style="--clr:#6eff3e"><span>Algorave</span><i></i></a></li>
+        </aside>
+    </nav>
+</div> 
+
+<div id="container">
+<br>
+                <h1>Popular Live Coders</h1>
+<br>
+        <h2>An example of a few popular Live Coders:</h2>
+<br>
+        <p style="text-align:center;">You can find popular live coders all over youtube. Here are a few that I personally have enjoyed!</p>
+<br>
+<main class="multi_col">
+
+<section>
+                    <h3>DJ Dave</h3>
+<details>
+    <summary><img width="50" height="50"src="images/DJDave.jpg" alt="DJDave"></summary>
+
+    <div class="modal-content">
+    <button class="close-btn">×</button>
+
+<iframe width="300" height="300" src="https://www.youtube.com/embed/JiQHclg_648?si=7l-v1-RNS-juU70z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</details>
+</section>
+
+<aside>
+                      <h3>Scratch Angel</h3>
+<details>
+    <summary><img width="50" height="50" src="images/ScratchAngel.jpg" alt="ScratchAngel"></summary>
+
+    <div class="modal-content">
+    <button class="close-btn">×</button>
+
+<iframe width="300" height="300" src="https://www.youtube.com/embed/BWLFus_LaCs?si=a8n1opCY0956WS0s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</details>
+</aside>
+
+<section>
+                        <h3>Go Suraj</h3>
+<details>
+    <summary><img width="50" height="50" src="images/gosuraj.jpg" alt="gosuraj"></summary>
+
+    <div class="modal-content">
+    <button class="close-btn">×</button>
+
+<iframe width="300" height="300" src="https://www.youtube.com/embed/kzlX9VfuvsI?si=ENNSC4lsVBzPytaV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</details>
+</section>
+</main>
+
+<div>
+<nav>
+<section>
+<li><a href="https://linktr.ee/dj_dave" style="--clr:#6eff3e"><span><b>Website</b></span><i></i></a></li>
+</section>
+
+<aside>
+<li><a href="https://linktr.ee/switchangel" style="--clr:#6eff3e"><span>Website</span><i></i></a></li>
+</aside>
+
+<section>
+<li><a href="https://www.gosuraj.com/" style="--clr:#6eff3e"><span>Website</span><i></i></a></li>
+</section>
+</nav>
+</div>
+
+<footer>&copy; Introduction to Live Coding</footer>
+
+<script>document.querySelectorAll('details').forEach(details => {
+  const closeBtn = details.querySelector('.close-btn');
+  if (closeBtn) {
+    closeBtn.addEventListener('click', (e) => {
+      e.preventDefault();
+      details.removeAttribute('open');
+    });
+  }
+});</script>
+
+</body>
+</html>
